@@ -1,7 +1,7 @@
 # Tugas JAVA BEANS
 
-a. Counter
+<p> a. Counter </p> </br>
 <img src="ss1.jpg">
-
-b. Progress Bar
+</br>
+b. Progress Bar </br>
 <img src="ss2.jpg">
